@@ -34,6 +34,11 @@ This repository is dedicated to providing versatile C++ templates. The main bran
 ```sh
 git clone --branch <branch-name> <repository-url>
 ```
+example : 
+
+```sh
+git clone --branch nautilus https://github.com/SECRET-GUEST/cppTemplate.git
+```
 
 Replace `<branch-name>` with the name of the branch you want to clone, and `<repository-url>` with the URL of this repository.
 
