@@ -101,12 +101,6 @@ If you're a 3D animator, consider:
 - [Animation](https://github.com/SECRET-GUEST/animation)
 
 
-Looking for more? Discover user-friendly, GUI-free script here: 
-- [Tiny Scripts](https://github.com/SECRET-GUEST/tiny-scripts)
-
-If you're a 3D animator, consider:
-- [Animation](https://github.com/SECRET-GUEST/animation)
-
 
 
 ## 📥 Installation
